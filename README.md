@@ -3,7 +3,14 @@
 
 <h3 align="center">Creator of:</h3>
 <p align="center">
- Gitstats <a href="gitstats.info?source=github"> <img src="https://raw.githubusercontent.com/elminson/elminson/main/gitstats_logo.png" width="25%"></a>
+ Gitstats.info
+ <br>
+ <a href="gitstats.info?source=github"> <img src="https://raw.githubusercontent.com/elminson/elminson/main/gitstats_logo.png" width="25%"></a>
+</p>
+<p align="center">
+ Logjs.net
+ <br>
+ <a href="gitstats.info?source=github"> <img src="https://raw.githubusercontent.com/elminson/elminson/main/logo_logjs.png" width="25%"></a>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elminson" alt="elminson" /></a> </p>
