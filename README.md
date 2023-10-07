@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Elminson</h1>
-<h3 align="center">Work as Lead Software Engineer at Refersion</h3>
+<h3 align="center">Lead Software Engineer at Refersion / Mentor at BloomTech (Lambda School) / Mentor at PHP Dominicana / Saas (English/Spanish Speaker)</h2>
+
+<h3 align="center">Creator of:</h3>
+<p align="center">
+  <a href="gitstats.info?source=github">Gitstats <img src="https://raw.githubusercontent.com/elminson/elminson/main/gitstats_info_elminson.png" width="25%"></a>
+</p>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elminson" alt="elminson" /></a> </p>
 
