@@ -3,7 +3,7 @@
 
 <h3 align="center">Creator of:</h3>
 <p align="center">
-  <a href="gitstats.info?source=github">Gitstats <img src="https://raw.githubusercontent.com/elminson/elminson/main/gitstats_info_elminson.png" width="25%"></a>
+ Gitstats <a href="gitstats.info?source=github"> <img src="https://raw.githubusercontent.com/elminson/elminson/main/gitstats_info_elminson.png" width="25%"></a>
 </p>
 
 
