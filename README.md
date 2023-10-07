@@ -5,17 +5,17 @@
 <p align="center">
  Gitstats.info
  <br>
- <a href="gitstats.info?source=github"> <img src="https://raw.githubusercontent.com/elminson/elminson/main/gitstats_logo.png" height="32px"></a>
+ <a href="gitstats.info?source=github"> <img src="https://raw.githubusercontent.com/elminson/elminson/main/gitstats_logo.png" height="128px"></a>
 </p>
 <p align="center">
  Logjs.net
  <br>
- <img src="https://raw.githubusercontent.com/elminson/elminson/main/logo_logjs.png" height="32px">
+ <img src="https://raw.githubusercontent.com/elminson/elminson/main/logo_logjs.png" height="128px">
 </p>
 <p align="center">
  rlist.net
  <br>
- <img src="https://github.com/elminson/elminson/blob/main/logo_rlist.png?raw=true" height="32px">
+ <img src="https://github.com/elminson/elminson/blob/main/logo_rlist.png?raw=true" height="128px">
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elminson" alt="elminson" /></a> </p>
 
