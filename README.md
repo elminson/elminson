@@ -1,5 +1,8 @@
 <img src="https://raw.githubusercontent.com/elminson/elminson/main/banner.jpeg" width="100%">
-<h3 align="center">Lead Software Engineer at Refersion / Mentor at BloomTech (Lambda School) / Mentor at PHP Dominicana / Saas (English/Spanish Speaker)</h2>
+<h3 align="center">Lead Software Engineer at Refersion <br>
+ Mentor at BloomTech (Lambda School) <br> 
+ Mentor at PHP Dominicana <b> Saas Lover <br>
+ (English/Spanish Speaker)</h2>
 
 <h3 align="center">Creator of:</h3>
 <p align="center">
