@@ -15,7 +15,7 @@
 <p align="center">
  rlist.net
  <br>
- <img src="https://raw.githubusercontent.com/elminson/elminson/main/logo_rlist.png" height="32px">
+ <img src="https://github.com/elminson/elminson/blob/main/logo_rlist.png?raw=true" height="32px">
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elminson" alt="elminson" /></a> </p>
 
