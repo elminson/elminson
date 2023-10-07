@@ -6,13 +6,18 @@
  Gitstats <a href="gitstats.info?source=github"> <img src="https://raw.githubusercontent.com/elminson/elminson/main/gitstats_logo.png" width="25%"></a>
 </p>
 
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elminson" alt="elminson" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/elminson" target="blank"><img src="https://img.shields.io/twitter/follow/elminson?logo=twitter&style=for-the-badge" alt="elminson" /></a> </p>
+<p align="center"> 
+ <a href="https://twitter.com/elminson" target="blank">
+ <img src="https://img.shields.io/twitter/follow/elminson?logo=twitter&style=for-the-badge" alt="elminson" />
+</a> 
+</p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/elminson/elminson/main/gitstats_info_elminson.png" width="50%"></p>
+<p align="center">
+ GITSTATS PROFILE: gitstats.info/@elminson
+ <img src="https://raw.githubusercontent.com/elminson/elminson/main/gitstats_info_elminson.png" width="50%">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
