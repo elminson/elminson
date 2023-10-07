@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Elminson</h1>
+<img src="https://raw.githubusercontent.com/elminson/elminson/main/banner.jpeg" width="100%">
 <h3 align="center">Lead Software Engineer at Refersion / Mentor at BloomTech (Lambda School) / Mentor at PHP Dominicana / Saas (English/Spanish Speaker)</h2>
 
 <h3 align="center">Creator of:</h3>
 <p align="center">
- Gitstats <a href="gitstats.info?source=github"> <img src="https://raw.githubusercontent.com/elminson/elminson/main/gitstats_info_elminson.png" width="25%"></a>
+ Gitstats <a href="gitstats.info?source=github"> <img src="https://raw.githubusercontent.com/elminson/elminson/main/gitstats_logo.png" width="25%"></a>
 </p>
 
 
