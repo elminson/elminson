@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/elminson" target="blank"><img src="https://img.shields.io/twitter/follow/elminson?logo=twitter&style=for-the-badge" alt="elminson" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<img src="" width="50%">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
