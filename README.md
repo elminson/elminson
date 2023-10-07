@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/elminson" target="blank"><img src="https://img.shields.io/twitter/follow/elminson?logo=twitter&style=for-the-badge" alt="elminson" /></a> </p>
 
-<img src="https://raw.githubusercontent.com/elminson/elminson/main/gitstats_info_elminson.png" width="50%">
+<p align="center"><img src="https://raw.githubusercontent.com/elminson/elminson/main/gitstats_info_elminson.png" width="50%"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
