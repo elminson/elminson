@@ -26,7 +26,8 @@
 </p>
 
 <p align="center">
- GITSTATS PROFILE: gitstats.info/@elminson <br>
+ GITSTATS PROFILE: <a href="https://gitstats.info/@elminson">https://gitstats.info/@elminson</a> <br>
+ 
  <img src="https://raw.githubusercontent.com/elminson/elminson/main/gitstats_info_elminson.png" width="50%">
 </p>
 
