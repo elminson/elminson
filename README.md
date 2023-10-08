@@ -11,6 +11,11 @@
  <a href="gitstats.info?source=github"> <img src="https://raw.githubusercontent.com/elminson/elminson/main/gitstats_logo.png" height="128px"></a>
 </p>
 <p align="center">
+ Cordtextsms.com
+ <br>
+ <img src="https://raw.githubusercontent.com/elminson/elminson/main/logo_cordtextsms.png" height="128px">
+</p>
+<p align="center">
  Logjs.net
  <br>
  <img src="https://raw.githubusercontent.com/elminson/elminson/main/logo_logjs.png" height="128px">
